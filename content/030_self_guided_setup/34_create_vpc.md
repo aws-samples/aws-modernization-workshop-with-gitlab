@@ -18,7 +18,7 @@ This template deploys a VPC, with a pair of public and private subnets spread
 across two Availability Zones. It deploys an internet gateway, with a default
 route on the public subnets. It deploys a pair of NAT gateways (one in each AZ), and default routes for them in the private subnets.
 
-This will take a couple of miuntes to deploy.
+This will take a couple of minutes to deploy.
 
 When the deployment is complete go to "Services" -> "VPC",
 To see the list of VPC on the account.
@@ -32,9 +32,9 @@ Next click on "Sunbets" on the left side.
 From the list, select a subnet that is called **Workshop Public Subnet (AZ2)**, and note the SUBNET-ID for use in the next step.
 ![vpc-4](/images/vpc-4.png)
 
-Now lets continue to the next step.
+Now let's continue to the next step.
 
 {{% notice info %}}
 For the purposes of this workshop we will deploy our Gitlab machine on a Public network with a Public IP.
-This is not recomended for a production setup.
+This is not recommended for a production setup.
 {{% /notice %}}
