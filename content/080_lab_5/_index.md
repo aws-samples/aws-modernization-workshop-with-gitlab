@@ -1,5 +1,5 @@
 ---
-title: "Lab 5: Development flow: change code, build, test, and deploy"
+title: "LAB5 - Development flow: change code, build, test, and deploy"
 chapter: true
 weight: 8
 ---

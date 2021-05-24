@@ -28,11 +28,7 @@ We have created several resources in this workshop and we want to make sure that
 - Click the "Actions" button on the right-hand side and select "Cancel Subscription".
 - In the dialog that comes up, check the checkbox, and click "Yes, cancel subscription".
 
-=======
-- How to stand-up **GitLab Ultimate** in **AWS** via the **marketplace**.
-- How to install GitLab **Runner** and register it to our GitLab project.
-- How to create a new project and import a repository to it.
-- How to configure GitLab CI/CD via the **.gitlab-ci.yml** file.
-- How to save **secrets** in GitLab **Variables** in the **CI/CD settings**.
-- How to use **GitLab DevOps platform** to **build**, **test** and **deploy** applications.
-  main
+### Cloudformation VPC Template Removal
+- In our AWS Console, Click "Services" -> "Cloudformation".
+- In the list of Stacks, select "ModernizationWorkshop-gitlab", and click the "Delete" button on the right corner.
+- In the dialog that opend click "Delete Stack" to remove the Cloudformation stack we created.
