@@ -65,4 +65,4 @@ Agent needs to be installed in every cluster
 Limited to k8s-only
 Uses different technology than application CI/CD
 
-
+:white_check_mark: Check out the market viewpoint on the [GitOps use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/) for a more in-depth explanation.

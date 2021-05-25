@@ -18,3 +18,5 @@ Version Control and Collaboration is more than simply tracking changes, versions
 - Resolving merge conflicts and related anomalies
 
 In general, [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration is required because software is constantly changing. Regardless of the stage of development, there will be change to deal with.
+
+:white_check_mark: Check out the the market viewpoint on the [VC&C use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/) for a more in-depth explanation.
