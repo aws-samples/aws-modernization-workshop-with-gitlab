@@ -7,12 +7,11 @@ weight: 1
 # Learning Objectives
 In this workshop, you will be learning the following topics:
 
-1. Agile Methodology
-1. What is version control & collaboration
-1. What is CICD
-1. What is DevSecOps
-1. What is GitOps
-1. Using GitLab to orchestrate your developmental workflow
+1. Intro to GitLab DevOps platform
+2. How to stand-up GitLab Ultimate in AWS Marketplace
+3. Install and register GitLab Runner
+4. Configure the CI/CD
+5. Using GitLab to orchestrate your developmental workflow
 
 # Workshop Structure
 

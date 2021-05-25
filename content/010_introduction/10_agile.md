@@ -25,3 +25,5 @@ Oragnizations need better ways to manage projects, programs, and portfolios usin
 - **close** work items when completed
 - **measure** the value created by that work
 - **communicate** that value throughout the organization, regardless of other methodologies in place
+
+:white_check_mark: Check out the market viewpoint on the [Agile use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/agile/) for a more in-depth explanation.

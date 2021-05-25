@@ -1,7 +1,7 @@
 ---
 title: "GitLab"
 chapter: true
-weight: 15
+weight: 2
 ---
 
 # GitLab - the open DevOps platform
@@ -30,3 +30,5 @@ weight: 15
 ### :star: Only GitLab can cover all the bases in a single application and streamline your application delivery practices and processes.
 
 ![gitlab-1](/images/gitlab-1.png)
+
+:white_check_mark: Visit [GitLab website](http://about.gitlab.com) for more info

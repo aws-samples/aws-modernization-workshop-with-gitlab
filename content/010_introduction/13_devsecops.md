@@ -18,3 +18,5 @@ Balancing business velocity with security is possible. With GitLab, DevSecOps ar
 ## Benefits of DevSecOps
 
 Every piece of code is tested upon commit for security threats, without incremental cost. The developer can remediate now, while they are still working in that code, or create an issue with one click. The dashboard for the security pro is a roll-up of vulnerabilities remaining that the developer did not resolve on their own. Vulnerabilities can be efficiently captured as a by-product of software development. A single tool also reduces cost over the approach to buy, integrate and maintain point solutions throughout the DevOps pipeline.
+
+:white_check_mark: Check out the market viewpoint on the [DevSecOps use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/) for a more in-depth explanation.

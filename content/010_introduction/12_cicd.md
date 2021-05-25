@@ -23,6 +23,8 @@ CI makes software development easier, faster, and less risky for developers. By 
 - **Change failure rate:** Early automated testing greatly reduced the number of defects that make their way out to production.
   GitLab CI/CD comes built-in to GitLab's complete DevOps platform delivered as a single application. There's no need to cobble together multiple tools and users get a seamless experience out-of-the-box.
 
+:white_check_mark: Check out the market viewpoint on the [CI use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/) for a more in-depth explanation.
+
 # Continuous Delivery
 
 “Deployment is manual”
@@ -54,3 +56,5 @@ Continuous Delivery is the next logical step after continuous integration and it
 **Faster time to market** - automation of environment provisioning, software deployment and rapid feedback helps teams to iterate faster and rollback when necessary
 
 **Lower risk releases** - by using progressive delivery practices such as advanced deployments: incremental / blue green / canary deployments, review apps, feature flags and a deployment performance feedback loop, organizations are able to validate their software before widespread deployment
+
+:white_check_mark: Check out the market viewpoint on the [CD use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/cd/) for a more in-depth explanation.

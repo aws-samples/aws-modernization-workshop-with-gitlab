@@ -8,7 +8,7 @@ weight: 9
 
 In this workshop we learned:
 
-=======
+
 - How to stand-up **GitLab Ultimate** in **AWS** via the **marketplace**.
 - How to install GitLab **Runner** and register it to our GitLab project.
 - How to create a new project and import a repository to it.
