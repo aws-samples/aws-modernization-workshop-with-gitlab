@@ -45,7 +45,7 @@ enableEmoji = true
 home = ["HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-graduation-cap'></i> Learn @GitLab"
+name = "<i class='fas fa-graduation-cap'></i> GitLab Learn"
 url = "https://about.gitlab.com/learn"
 weight = 10
 
